@@ -12,7 +12,7 @@ E96npsvUvgogeHRaJNbAoKx25CXiPU5YJa1ochRcMYGf
 
 
 
-Support
+# Support
 
  Window
 
@@ -28,7 +28,7 @@ This bot uses ChromeDriver so on mac there is a possiblity that you will have to
 
 The chrome window will appear WITHOUT loading the images, this is to ensure the fastest loading.
 
-Tutorial
+# Tutorial
 
 Clone the repository / Download zip file
 
