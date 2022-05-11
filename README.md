@@ -67,3 +67,9 @@ E96npsvUvgogeHRaJNbAoKx25CXiPU5YJa1ochRcMYGf
     mac : `python3 main.py`
     
     or start `start.bat`
+
+
+
+It's NOT necessary but any donation for future work is appreciated:
+
+E96npsvUvgogeHRaJNbAoKx25CXiPU5YJa1ochRcMYGf
