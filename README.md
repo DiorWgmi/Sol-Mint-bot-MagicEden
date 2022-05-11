@@ -14,52 +14,56 @@ E96npsvUvgogeHRaJNbAoKx25CXiPU5YJa1ochRcMYGf
 
 # Support
 
- Window
+- [x] Window
 
- Mac (Intel + m1)
+ - [x] Mac (Intel + m1)
 
- Linux (Not verified)
+ - [x] Linux (Not verified)
 
- MagicEden.io
+ - [x] MagicEden.io
 
- MonkeLabs.io
+ - [x] MonkeLabs.io
+---
 
-This bot uses ChromeDriver so on mac there is a possiblity that you will have to allow the software to run in your privacy settings. Check mac folder for more info.
+- This bot uses ChromeDriver so on mac there is a possiblity that you will have to allow the software to run in your privacy settings. Check mac folder for more info.
 
-The chrome window will appear WITHOUT loading the images, this is to ensure the fastest loading.
+- The chrome window will appear WITHOUT loading the images, this is to ensure the fastest loading.
 
-# Tutorial
+---
 
-Clone the repository / Download zip file
+## Tutorial
 
-git clone https://github.com/gunnar63/magiceden-bot.git
+1. Clone the repository / Download zip file
 
-OR
+    `git clone https://github.com/gunnar63/magiceden-bot.git`
 
-Download Zip File
+    OR
 
-Be sure you have installed Python correctly, here is a link to download
+    [Download Zip File](https://github.com/gunnar63/magiceden-bot/archive/refs/heads/main.zip)
+    
 
-Open command prompt
+2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
 
-Install all python module
+2. Open command prompt
 
-pip install selenium requests webdriver-manager
+3. Install all python module
 
-Replace Phantom Passphrase and password in config.json
+   `pip install selenium requests webdriver-manager`
+   
+4. Replace Phantom Passphrase and password in `config.json`
 
-launchpadLink --> Launchpad link on magic eden
+    `launchpadLink` --> Launchpad link on magic eden
 
-seedPhrase --> your phantom wallet passphrase (Careful do not share this key)
+    `seedPhrase` --> your phantom wallet passphrase (Careful do not share this key)
 
-Open CMD and go to directory
+5. Open CMD and go to directory
 
-cd /path/to/directory/magiceden-bot/
+    `cd /path/to/directory/magiceden-bot/`
 
-Run the python file
+6. Run the python file
 
-windows : python main.py
+    windows : `python main.py`
 
-mac : python3 main.py
-
-or start start.bat
+    mac : `python3 main.py`
+    
+    or start `start.bat`
